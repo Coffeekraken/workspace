@@ -1,0 +1,6 @@
+[submodule "sugar"]
+	path = sugar
+	url = git@github.com:Coffeekraken/sugar.git
+[submodule "s-range-component"]
+	path = s-range-component
+	url = git@github.com:Coffeekraken/s-range-component.git
