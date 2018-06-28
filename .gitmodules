@@ -4,3 +4,165 @@
 [submodule "s-range-component"]
 	path = s-range-component
 	url = git@github.com:Coffeekraken/s-range-component.git
+[submodule "compile-server"]
+	path = compile-server
+	url = git@github.com:Coffeekraken/compile-server.git
+[submodule "code-playground"]
+	path = code-playground
+	url = git@github.com:Coffeekraken/code-playground.git
+[submodule "docker-demos"]
+	path = docker-demos
+	url = git@github.com:Coffeekraken/docker-demos.git
+[submodule "s-share-component"]
+	path = s-share-component
+	url = git@github.com:Coffeekraken/s-share-component.git
+[submodule "s-sticky-component"]
+	path = s-sticky-component
+	url = git@github.com:Coffeekraken/s-sticky-component.git
+[submodule "s-select-component"]
+	path = s-select-component
+	url = git@github.com:Coffeekraken/s-select-component.git
+[submodule "s-ripple-component"]
+	path = s-ripple-component
+	url = git@github.com:Coffeekraken/s-ripple-component.git
+[submodule "s-recaptcha-component"]
+	path = s-recaptcha-component
+	url = git@github.com:Coffeekraken/s-recaptcha-component.git
+[submodule "s-read-more-component"]
+	path = s-read-more-component
+	url = git@github.com:Coffeekraken/s-read-more-component.git
+[submodule "s-radiobox-component"]
+	path = s-radiobox-component
+	url = git@github.com:Coffeekraken/s-radiobox-component.git
+[submodule "s-particles-system-component"]
+	path = s-particles-system-component
+	url = git@github.com:Coffeekraken/s-particles-system-component.git
+[submodule "s-particle-component"]
+	path = s-particle-component
+	url = git@github.com:Coffeekraken/s-particle-component.git
+[submodule "s-notification-component"]
+	path = s-notification-component
+	url = git@github.com:Coffeekraken/s-notification-component.git
+[submodule "s-label-push-component"]
+	path = s-label-push-component
+	url = git@github.com:Coffeekraken/s-label-push-component.git
+[submodule "s-i-typed-component"]
+	path = s-i-typed-component
+	url = git@github.com:Coffeekraken/s-i-typed-component.git
+[submodule "s-google-map-marker-component"]
+	path = s-google-map-marker-component
+	url = git@github.com:Coffeekraken/s-google-map-marker-component.git
+[submodule "s-google-map-info-window-component"]
+	path = s-google-map-info-window-component
+	url = git@github.com:Coffeekraken/s-google-map-info-window-component.git
+[submodule "s-google-map-component"]
+	path = s-google-map-component
+	url = git@github.com:Coffeekraken/s-google-map-component.git
+[submodule "s-drawer-component"]
+	path = s-drawer-component
+	url = git@github.com:Coffeekraken/s-drawer-component.git
+[submodule "s-dialog-component"]
+	path = s-dialog-component
+	url = git@github.com:Coffeekraken/s-dialog-component.git
+[submodule "s-datepicker-component"]
+	path = s-datepicker-component
+	url = git@github.com:Coffeekraken/s-datepicker-component.git
+[submodule "s-equalize-component"]
+	path = s-equalize-component
+	url = git@github.com:Coffeekraken/s-equalize-component.git
+[submodule "s-custom-scrollbar-component"]
+	path = s-custom-scrollbar-component
+	url = git@github.com:Coffeekraken/s-custom-scrollbar-component.git
+[submodule "s-codemirror-component"]
+	path = s-codemirror-component
+	url = git@github.com:Coffeekraken/s-codemirror-component.git
+[submodule "s-bodymovin-component"]
+	path = s-bodymovin-component
+	url = git@github.com:Coffeekraken/s-bodymovin-component.git
+[submodule "s-atv-card-component"]
+	path = s-atv-card-component
+	url = git@github.com:Coffeekraken/s-atv-card-component.git
+[submodule "s-ajax-form-component"]
+	path = s-ajax-form-component
+	url = git@github.com:Coffeekraken/s-ajax-form-component.git
+[submodule "s-activate-component"]
+	path = s-activate-component
+	url = git@github.com:Coffeekraken/s-activate-component.git
+[submodule "s-table-component"]
+	path = s-table-component
+	url = git@github.com:Coffeekraken/s-table-component.git
+[submodule "s-validator-component"]
+	path = s-validator-component
+	url = git@github.com:Coffeekraken/s-validator-component.git
+[submodule "s-form-component"]
+	path = s-form-component
+	url = git@github.com:Coffeekraken/s-form-component.git
+[submodule "s-motion-blur-component"]
+	path = s-motion-blur-component
+	url = git@github.com:Coffeekraken/s-motion-blur-component.git
+[submodule "s-one-time-display-component"]
+	path = s-one-time-display-component
+	url = git@github.com:Coffeekraken/s-one-time-display-component.git
+[submodule "s-slideshow-component"]
+	path = s-slideshow-component
+	url = git@github.com:Coffeekraken/s-slideshow-component.git
+[submodule "html-boilerplate"]
+	path = html-boilerplate
+	url = git@github.com:Coffeekraken/html-boilerplate.git
+[submodule "scripts-stack"]
+	path = scripts-stack
+	url = git@github.com:Coffeekraken/scripts-stack.git
+[submodule "docblock-parser"]
+	path = docblock-parser
+	url = git@github.com:Coffeekraken/docblock-parser.git
+[submodule "website"]
+	path = website
+	url = git@github.com:Coffeekraken/website.git
+[submodule "s-boilerplate-component"]
+	path = s-boilerplate-component
+	url = git@github.com:Coffeekraken/s-boilerplate-component.git
+[submodule "s-typography-component"]
+	path = s-typography-component
+	url = git@github.com:Coffeekraken/s-typography-component.git
+[submodule "s-tooltip-component"]
+	path = s-tooltip-component
+	url = git@github.com:Coffeekraken/s-tooltip-component.git
+[submodule "s-dropdown-component"]
+	path = s-dropdown-component
+	url = git@github.com:Coffeekraken/s-dropdown-component.git
+[submodule "s-animation-component"]
+	path = s-animation-component
+	url = git@github.com:Coffeekraken/s-animation-component.git
+[submodule "s-button-component"]
+	path = s-button-component
+	url = git@github.com:Coffeekraken/s-button-component.git
+[submodule "carpenter"]
+	path = carpenter
+	url = git@github.com:Coffeekraken/carpenter.git
+[submodule "gridle"]
+	path = gridle
+	url = git@github.com:Coffeekraken/gridle.git
+[submodule "docblock-json-to-markdown"]
+	path = docblock-json-to-markdown
+	url = git@github.com:Coffeekraken/docblock-json-to-markdown.git
+[submodule "template-stack"]
+	path = template-stack
+	url = git@github.com:Coffeekraken/template-stack.git
+[submodule "remote-stack"]
+	path = remote-stack
+	url = git@github.com:Coffeekraken/remote-stack.git
+[submodule "docblock-to-markdown"]
+	path = docblock-to-markdown
+	url = git@github.com:Coffeekraken/docblock-to-markdown.git
+[submodule "s-interactive-demo-component"]
+	path = s-interactive-demo-component
+	url = git@github.com:Coffeekraken/s-interactive-demo-component.git
+[submodule "s-google-map-component-base"]
+	path = s-google-map-component-base
+	url = git@github.com:Coffeekraken/s-google-map-component-base.git
+[submodule "github-link-proxy"]
+	path = github-link-proxy
+	url = git@github.com:Coffeekraken/github-link-proxy.git
+[submodule "coffeekraken"]
+	path = coffeekraken
+	url = git@github.com:Coffeekraken/coffeekraken.git
