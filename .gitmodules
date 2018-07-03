@@ -136,9 +136,6 @@
 [submodule "s-button-component"]
 	path = s-button-component
 	url = git@github.com:Coffeekraken/s-button-component.git
-[submodule "carpenter"]
-	path = carpenter
-	url = git@github.com:Coffeekraken/carpenter.git
 [submodule "gridle"]
 	path = gridle
 	url = git@github.com:Coffeekraken/gridle.git
