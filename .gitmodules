@@ -163,3 +163,6 @@
 [submodule "coffeekraken"]
 	path = coffeekraken
 	url = git@github.com:Coffeekraken/coffeekraken.git
+[submodule "carpenter"]
+	path = carpenter
+	url = git@github.com:Coffeekraken/carpenter.git
